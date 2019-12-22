@@ -4,17 +4,17 @@ Igra “Moj broj” iz kviza “Slagalica”. Kada se započne igra, generiše s
 
 Main menu - Glavni meni
 <p align="center">
-  <img width="200" height="500" src="https://user-images.githubusercontent.com/59072921/71325885-8974af80-24f3-11ea-89a5-83e5d2e4b1bb.jpg">
+  <img width="300" height="360" src="https://user-images.githubusercontent.com/59072921/71325885-8974af80-24f3-11ea-89a5-83e5d2e4b1bb.jpg">
 </p>
 
 Start of Game - Pocetak igre
 <p align="center">
-  <img width="300" height="500" src="https://user-images.githubusercontent.com/59072921/71325905-b88b2100-24f3-11ea-85b4-35e7d26e414e.jpg">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/59072921/71325905-b88b2100-24f3-11ea-85b4-35e7d26e414e.jpg">
 </p>
 
 Middle of Game - Izgled igre
 <p align="center">
-  <img width="300" height="460" src="https://user-images.githubusercontent.com/59072921/71325913-d9537680-24f3-11ea-8806-9971b15b74c5.jpg">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/59072921/71325913-d9537680-24f3-11ea-8806-9971b15b74c5.jpg">
 </p>
 
 End of Game, Results - Kraj igre, Rezultati
