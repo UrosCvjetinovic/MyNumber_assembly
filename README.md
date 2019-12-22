@@ -9,15 +9,15 @@ Main menu - Glavni meni
 
 Start of Game - Pocetak igre
 <p align="center">
-  <img width="300" height="400" src="https://user-images.githubusercontent.com/59072921/71325905-b88b2100-24f3-11ea-85b4-35e7d26e414e.jpg">
+  <img width="300" height="360" src="https://user-images.githubusercontent.com/59072921/71325905-b88b2100-24f3-11ea-85b4-35e7d26e414e.jpg">
 </p>
 
 Middle of Game - Izgled igre
 <p align="center">
-  <img width="300" height="400" src="https://user-images.githubusercontent.com/59072921/71325913-d9537680-24f3-11ea-8806-9971b15b74c5.jpg">
+  <img width="300" height="360" src="https://user-images.githubusercontent.com/59072921/71325913-d9537680-24f3-11ea-8806-9971b15b74c5.jpg">
 </p>
 
 End of Game, Results - Kraj igre, Rezultati
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/59072921/71325924-f5571800-24f3-11ea-9df3-e2f2e14a4df0.jpg">
+  <img width="300" height="360" src="https://user-images.githubusercontent.com/59072921/71325924-f5571800-24f3-11ea-9df3-e2f2e14a4df0.jpg">
 </p>
